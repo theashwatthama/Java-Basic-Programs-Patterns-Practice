@@ -20,5 +20,6 @@ public class MAD_LIBS_GAME {
         System.out.println(noun+" was "+adjective2+" and "+ verb);
         System.out.println("I was "+adjective3);
         sc.close();
+
     }
 }
