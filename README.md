@@ -2,7 +2,7 @@ Java Programs Practice 🚀
 
 This repository contains Java programs that I am practicing while learning Java programming.
 
-I am following a YouTube tutorial and implementing all the programs step-by-step to improve my understanding of core Java concepts.
+I am following a YouTube tutorial and implementing all the programs step-by-step to improve my understanding of core Java concepts. 
 
 ## 📂 Project Structure
 
@@ -57,4 +57,4 @@ Java
 IntelliJ IDEA
 
 ⭐ This repository is part of my Java learning journey from beginner to advanced.
-    
+My Learning Repo
