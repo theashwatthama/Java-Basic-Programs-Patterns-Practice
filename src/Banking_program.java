@@ -26,7 +26,7 @@ public class Banking_program {
 
             switch (choice) {
                 case 1 -> showBalance(balance);
-                case 2 -> balance=balance+deposit(balance);
+                case 2 -> balance=balance+deposit();
                 case 3 -> balance=balance-withdraw(balance);
                 case 4 -> isRunning = false;
                 default  -> {
@@ -39,7 +39,7 @@ public class Banking_program {
     static void showBalance(double balance) {
         System.out.printf("Your current balance is : $%.2f\n", balance);
     }
-    static double deposit(double balance) {
+    static double deposit() {
         double amount;
         System.out.println("Enter the amount you want to deposit : ");
         amount = sc.nextDouble();
