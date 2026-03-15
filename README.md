@@ -1,61 +1,77 @@
-Java Programs Practice 🚀
+# ☕ Java Basic Programs & Patterns Practice 🚀
 
-This repository contains Java programs that I am practicing while learning Java programming.
+This repository contains Java programs that I am building while learning Java programming and improving my coding logic step-by-step.
 
-I am following a YouTube tutorial and implementing all the programs step-by-step to improve my understanding of core Java concepts. 
+I am practicing different types of basic programs and pattern programs to strengthen my understanding of core Java concepts and problem solving.
+
+---
 
 ## 📂 Project Structure
 
-All the Java program files are located inside the **src folder**.
+All Java programs are organized inside different packages inside the **src folder**.
 
 ```
 Java-Projects
 │
 ├── src
-│   ├── MadLibsGame.java
-│   ├── ShoppingCart.java
-│   ├── CompoundInterest.java
-│   ├── WeightConverter.java
-│   ├── TemperatureConverter.java
-│   └── SimpleCalculator.java
+│   ├── basicprograms
+│   │   ├── Banking_program.java
+│   │   ├── Compound_interest.java
+│   │   ├── DiceRollerGame.java
+│   │   ├── MAD_LIBS_GAME.java
+│   │   ├── number_guessing_game.java
+│   │   ├── SearchanArray.java
+│   │   ├── Shopping_cart.java
+│   │   ├── simple_calculator.java
+│   │   ├── temprature_converter.java
+│   │   ├── UserInputArray.java
+│   │   └── weight_conversion.java
+│
+│   └── patternspractice
+│       
 │
 └── README.md
 ```
 
-📚 What I am Learning
+---
 
-Basic Java Syntax
+## 📚 Concepts I am Learning
 
-Variables and Data Types
+* Basic Java Syntax
+* Variables and Data Types
+* Operators
+* Conditional Statements
+* Loops
+* Arrays
+* Functions / Methods
+* Pattern Logic Building
+* String Handling
+* User Input using Scanner
+* Problem Solving
 
-Operators
+---
 
-Conditional Statements
+## 🎯 Purpose of this Repository
 
-Loops
+* Practice Java programming regularly
+* Track my learning progress
+* Improve programming logic
+* Build consistency on GitHub
+* Prepare base for Data Structures and Algorithms
 
-Functions / Methods
+---
 
-Pattern Programs
+## 🛠 Tech Used
 
-Basic Problem Solving
+* Java
+* IntelliJ IDEA
 
-🎯 Purpose of this Repository
+---
 
-Practice Java programming
+## 👨‍💻 Author
 
-Track my daily learning progress
+** ASHWATTHAMA **
 
-Build consistency on GitHub
 
-Improve problem solving skills
+Just learning and building step by step 🙂
 
-🛠 Tech Used
-
-Java
-
-IntelliJ IDEA
-
-⭐ This repository is part of my Java learning journey from beginner to advanced.
-
-just learning....
