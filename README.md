@@ -11,26 +11,7 @@ I am practicing different types of basic programs and pattern programs to streng
 All Java programs are organized inside different packages inside the **src folder**.
 
 ```
-Java-Projects
-│
-├── src
-│   ├── basicprograms
-│   │   ├── Banking_program.java
-│   │   ├── Compound_interest.java
-│   │   ├── DiceRollerGame.java
-│   │   ├── MAD_LIBS_GAME.java
-│   │   ├── number_guessing_game.java
-│   │   ├── SearchanArray.java
-│   │   ├── Shopping_cart.java
-│   │   ├── simple_calculator.java
-│   │   ├── temprature_converter.java
-│   │   ├── UserInputArray.java
-│   │   └── weight_conversion.java
-│
-│   └── patternspractice
-│       
-│
-└── README.md
+Java-Projects │ ├── src │ ├── basicprograms │ │ ├── Banking_program.java │ │ ├── Compound_interest.java │ │ ├── DiceRollerGame.java │ │ ├── MAD_LIBS_GAME.java │ │ ├── number_guessing_game.java │ │ ├── SearchanArray.java │ │ ├── Shopping_cart.java │ │ ├── simple_calculator.java │ │ ├── temprature_converter.java │ │ ├── UserInputArray.java │ │ └── weight_conversion.java │ │ │ ├── patternspractice │ │ └── (pattern problems) │ │ │ └── codeforces │ ├── Problem1.java │ ├── Problem2.java │ └── (more solutions...) │ └── README.md
 ```
 
 ---
@@ -71,7 +52,6 @@ Java-Projects
 ## 👨‍💻 Author
 
 ** ASHWATTHAMA **
-
 
 Just learning and building step by step 🙂
 
