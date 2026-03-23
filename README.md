@@ -6,9 +6,7 @@ I am practicing different types of basic programs and pattern programs to streng
 
 ---
 
-## 📂 Project Structure
-
-All Java programs are organized inside different packages inside the **src folder**.
+## 📁 Project Structure
 
 ```
 Java-Projects
@@ -26,12 +24,18 @@ Java-Projects
 │   │   ├── temprature_converter.java
 │   │   ├── UserInputArray.java
 │   │   └── weight_conversion.java
-│
-│   └── patternspractice
-│       
+│   │
+│   ├── patternspractice
+│   │   └── (pattern programs)
+│   │
+│   └── codeforces
+│       ├── A_Watermelon.java
+│       ├── FriendlyNumber.java
+│       └── ParkourDesign.java
 │
 └── README.md
 ```
+
 
 ---
 
@@ -71,7 +75,6 @@ Java-Projects
 ## 👨‍💻 Author
 
 ** ASHWATTHAMA **
-
 
 Just learning and building step by step 🙂
 
