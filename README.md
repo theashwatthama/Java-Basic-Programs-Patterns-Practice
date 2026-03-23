@@ -30,8 +30,8 @@ Java-Projects
 │   │
 │   └── codeforces
 │       ├── A_Watermelon.java
-│       ├── A_WayTooLongWords.java
-│       └── (more solutions...)
+│       ├── FriendlyNumber.java
+│       └── ParkourDesign.java
 │
 └── README.md
 ```
