@@ -50,7 +50,6 @@ Java-Projects
 * Functions / Methods
 * Pattern Logic Building
 * String Handling
-* User Input using Scanner
 * Problem Solving
 
 ---
