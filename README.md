@@ -4,6 +4,8 @@ This repository contains Java programs that I am building while learning Java pr
 
 I am practicing different types of basic programs and pattern programs to strengthen my understanding of core Java concepts and problem solving.
 
+Daily Problems
+
 ---
 
 ## 📁 Project Structure
